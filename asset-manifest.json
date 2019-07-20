@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/chit-chat/static/js/main.d71a30b5.chunk.js",
+    "main.js.map": "/chit-chat/static/js/main.d71a30b5.chunk.js.map",
+    "runtime~main.js": "/chit-chat/static/js/runtime~main.1ce857a8.js",
+    "runtime~main.js.map": "/chit-chat/static/js/runtime~main.1ce857a8.js.map",
+    "static/js/2.4c1856f3.chunk.js": "/chit-chat/static/js/2.4c1856f3.chunk.js",
+    "static/js/2.4c1856f3.chunk.js.map": "/chit-chat/static/js/2.4c1856f3.chunk.js.map",
+    "index.html": "/chit-chat/index.html",
+    "precache-manifest.33a4143152149e1e16cfd5344f71dc1d.js": "/chit-chat/precache-manifest.33a4143152149e1e16cfd5344f71dc1d.js",
+    "service-worker.js": "/chit-chat/service-worker.js"
+  }
+}
