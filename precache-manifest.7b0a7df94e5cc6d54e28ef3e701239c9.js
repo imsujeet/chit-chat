@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45cf0150f042fd7f341b22a0109fa518",
+    "revision": "b4fbbcc7dd1d733c7ba755faf8c55409",
     "url": "/chit-chat/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chit-chat/static/js/2.4c1856f3.chunk.js"
   },
   {
-    "revision": "975d99ffea19a74b6710",
-    "url": "/chit-chat/static/js/main.d71a30b5.chunk.js"
+    "revision": "64b25318031716c0fcca",
+    "url": "/chit-chat/static/js/main.80e991df.chunk.js"
   },
   {
     "revision": "86274b48ba23cc2997b6",
